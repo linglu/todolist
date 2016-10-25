@@ -40,6 +40,21 @@
 3. 解决相关的 bug；
 
 
+2016年 10月 18日 星期二 15:36:36 CST
+
+下面开始调试 build.gradle 以配置 apk 命名和 versionCode 和 versionName
+
+2016年 10月 18日 星期二 16:19:54 CST
+
+下面开始做手机适配问题
+
+新的一：尽量使用 support.v4.Frgament而不是 系统自带的 Fragment
+
+
+
+
+
+
 
 
 
